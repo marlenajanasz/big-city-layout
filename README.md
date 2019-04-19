@@ -10,4 +10,4 @@ https://www.youtube.com/watch?v=-FkoWCj5H6I<br><br>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
-  <li>Bootstrap 4 grid</li>
+  <li>Bootstrap 4 (grid)</li>
