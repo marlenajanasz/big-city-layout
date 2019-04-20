@@ -1,4 +1,4 @@
-/*wersje na laptopy*/
+/*desktop*/
 .container-header {
 	position: relative;
 }
@@ -18,6 +18,11 @@ h1 {
     position: absolute;
     top: 25%;
     left: 50%;
+}
+.photo-block{
+	background-image: url("../assets/blocks1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
 }
 .img-fluid.photo{
 	height: 100%;
@@ -67,18 +72,18 @@ aside{
 }
 p.blackbox{
 	height: 130px;
-    width: 985px;
-    padding-right: 40px;
-    padding-top: 20px;
-    padding-left: 250px;
-    background: #000000;
-    color: #FFFFFF;
-    text-align: right; 
-    font-size: 1.6em;
-    font-family: 'Francois One', sans-serif;
-    position: absolute;
-    top: 79%;
-    left: 7%;
+    	width: 985px;
+    	padding-right: 40px;
+    	padding-top: 20px;
+    	padding-left: 250px;
+    	background: #000000;
+    	color: #FFFFFF;
+    	text-align: right; 
+    	font-size: 1.6em;
+    	font-family: 'Francois One', sans-serif;
+    	position: absolute;
+    	top: 79%;
+    	left: 7%;
 }
 h2{
 	font-family: 'Francois One', sans-serif;
@@ -469,7 +474,7 @@ span.csa{
 	display: none;
 	}
 }
-/*wersja tabletowa*/
+/*tablets*/
 @media all and (max-width: 760px){
 	.yellowbar {
 	height: 80px;
@@ -537,7 +542,7 @@ span.csa{
 	font-size: 0.9em;
 	}
 }
-/*wersje na smartfony*/
+/*mobile*/
 @media all and (max-width: 539px){
 	.yellowbar {
 	height: 65px;
@@ -611,7 +616,7 @@ span.csa{
 }
 
 
-/*czy to możliwe/istotne żeby dla każdej laptopowej rozdzielczości strona wyglądała tak jak projekt <paddingi>*/
+
 
 
 
