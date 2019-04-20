@@ -1,6 +1,7 @@
 <h2>General info</h2>
 
 "Big city" is a project I created with HTML5 and CSS3. <br>
+This one's purpose was to practise RWD based on Boostrap grid. <br>
 Under the below links you can find short presentations about this project <br>
 
 Desktop version:<br>
